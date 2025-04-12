@@ -3,21 +3,115 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World</title>
+    <title>Financial Times Inspired Layout</title>
     <style>
+        /* FT-inspired styling (Pink header, serif fonts, clean grid) */
         body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 100px;
-            background-color: #f0f0f0;
-        }
-        h1 {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
             color: #333;
+            line-height: 1.6;
+        }
+        .header {
+            background-color: #FFF1E5; /* FT's signature pink */
+            padding: 10px 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        .header h1 {
+            color: #990000; /* FT's maroon */
+            margin: 0;
+            font-size: 24px;
+        }
+        .nav {
+            display: flex;
+            background-color: #000;
+            padding: 10px 20px;
+        }
+        .nav a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px;
+            font-size: 14px;
+        }
+        .main-headline {
+            padding: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        .main-headline h2 {
+            font-size: 28px;
+            color: #333;
+        }
+        .main-headline p {
+            font-size: 16px;
+            color: #666;
+        }
+        .article-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            padding: 20px;
+        }
+        .article {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 15px;
+        }
+        .article h3 {
+            font-size: 18px;
+            color: #333;
+        }
+        .article p {
+            font-size: 14px;
+            color: #666;
+        }
+        .footer {
+            background-color: #f9f9f9;
+            padding: 20px;
+            text-align: center;
+            font-size: 12px;
         }
     </style>
 </head>
 <body>
-    <h1>Hello, World! 🌍</h1>
-    <p>This is a simple HTML page hosted on GitHub Pages.</p>
+    <!-- FT-style header -->
+    <div class="header">
+        <h1>Financial Times</h1>
+    </div>
+
+    <!-- Navigation bar -->
+    <div class="nav">
+        <a href="#">World</a>
+        <a href="#">Markets</a>
+        <a href="#">Business</a>
+        <a href="#">Tech</a>
+        <a href="#">Opinion</a>
+    </div>
+
+    <!-- Main headline -->
+    <div class="main-headline">
+        <h2>Global Markets Rally as Central Banks Signal Rate Cuts</h2>
+        <p>Investors cheer dovish remarks from policymakers, pushing equities to record highs.</p>
+    </div>
+
+    <!-- Article grid -->
+    <div class="article-grid">
+        <div class="article">
+            <h3>EU Approves Landmark AI Regulation</h3>
+            <p>New rules aim to balance innovation with ethical safeguards.</p>
+        </div>
+        <div class="article">
+            <h3>Oil Prices Slide on Demand Concerns</h3>
+            <p>Brent crude falls below $80 amid weakening global growth outlook.</p>
+        </div>
+        <div class="article">
+            <h3>Tech Giants Face New Antitrust Probes</h3>
+            <p>Regulators target alleged anti-competitive practices in digital markets.</p>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>© Financial Times (Inspired Template) | <a href="#">Terms</a> | <a href="#">Privacy</a></p>
+    </div>
 </body>
 </html>
