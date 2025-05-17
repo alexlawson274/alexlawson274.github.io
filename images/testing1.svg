@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="792" height="612" viewBox="0 0 792 612">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M-2-2H1035V183H-2V-2Z"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.731849,0,0,.731849,18,239.76767)" d="M-2-2H1035V183H-2V-2Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.731849,0,0,.731849,18,239.76767)" d="M0 0H483V32H0V0Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.731849,0,0,.731849,18,239.76767)" d="M-2-2H1035V183H-2V-2Z"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.731849,0,0,.731849,18,239.76767)" d="M-2-2H1035V183H-2V-2Z"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.24394968,0,0,.24636501,574.20529,333.44435)" d="M0 0H165V101H0V0Z"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 0H165V101H0V0Z"/>
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 0H165V101H0V0Z"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 101V0H165V101Z"/>
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 0V101H165V0Z"/>
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 101V0H165V101Z"/>
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 0V101H165V0Z"/>
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 101V0H165V101Z"/>
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 0V101H165V0Z"/>
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 101V0H165V101Z"/>
+</clipPath>
+<clipPath id="clip_15">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 0V101H165V0Z"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M22 0H1034V33H22V0Z" fill="#ffffff"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M0 33H1034V59H0V33Z" fill="#ffffff"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M1011 59H1034V127H1011V59Z" fill="#ffffff"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M643 127H1034V144H643V127Z" fill="#ffffff"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M-1-1H22V33H-1V-1Z" fill="#ffffff"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M-1 58H758V127H-1V58Z" fill="#ff0000"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M757 58H1011V127H757V58Z" fill="#666666"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M-1 126H643V144H-1V126Z" fill="#ff0000"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" d="M-1 143H1034V182H-1V143Z" fill="#ffffff"/>
+<path transform="matrix(.731849,0,0,.731849,18,239.76769)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M-.5 57V145M21.5 57V145M43.5 57V145M65.5 57V145M87.5 57V145M-2 181.5H89M109.5 57V145M131.5 57V145M153.5 57V145M175.5 57V145M197.5 57V145M219.5 57V145M241.5 57V145M263.5 57V145M285.5 57V145M307.5 57V145M329.5 57V145M351.5 57V145M373.5 57V145M395.5 57V145M417.5 57V145M439.5 57V145M461.5 57V145M483.5 57V145M505.5 57V145M527.5 57V145M550.5 57V145M573.5 57V145M596.5 57V145M619.5 57V145M-2 143.5H644M642.5 57V145M665.5 57V128M688.5 57V128M711.5 57V128M734.5 57V128M757.5 57V128M780.5 57V128M803.5 57V128M826.5 57V128M849.5 57V128M872.5 57V128M895.5 57V128M918.5 57V128M941.5 57V128M964.5 57V128M987.5 57V128M-2 58.5H1012M-2 75.5H1012M-2 92.5H1012M-2 109.5H1012M-2 126.5H1012M1010.5 57V128M-.5 180V182M21.5 180V182M43.5 180V182M65.5 180V182M87.5 180V182"/>
+</g>
+<g clip-path="url(#clip_1)">
+<g clip-path="url(#clip_2)">
+<text xml:space="preserve" transform="matrix(.731849 0 0 .731849 18 239.76767)" font-size="28.599999" font-family="Arial" font-weight="bold"><tspan y="28.820603" x="3 23.6492 41.0952 56.9968 66.5206 77.645999 93.5476 101.4698 109.392009 125.29361 142.73961 150.6618 166.5634 184.0094 201.4554 218.9014 234.803 242.72519 250.64739 268.09339 283.995 309.4204 326.8664 334.7886 342.71083 360.1568 377.60279 385.525 401.4266 418.87263 434.77424 452.2202">Australian annual gambling spend</tspan></text>
+</g>
+</g>
+<g clip-path="url(#clip_3)">
+<text fill="#666666" xml:space="preserve" transform="matrix(.731849 0 0 .731849 18 239.76767)" font-size="18.199999" font-family="ArialMT"><tspan y="51.145814" x="3 15.1212 25.2404 34.3404 44.459604 49.501005 58.601 68.7202 78.8394 88.9586 95.0192 105.138408 110.1798 120.790409 125.8318 135.951 146.0702 156.1894 166.30861">Each square = $100M</tspan></text>
+<text xml:space="preserve" transform="matrix(.731849 0 0 .731849 18 239.76767)" font-size="19.5" font-family="Arial" font-weight="bold"><tspan y="174.86768" x="487 497.842 508.68403 519.526 524.9275 539.0065 544.40798 549.80947 555.21096 560.6124 572.50747">$21 Billion</tspan></text>
+<text xml:space="preserve" transform="matrix(.731849 0 0 .731849 18 239.76767)" font-size="13" font-family="Arial" font-weight="bold"><tspan y="161.29639" x="807 816.386 827.943 835.873 843.803 851.733 856.06198 859.66299 866.891 874.821 882.049 889.979 894.308 897.909 905.839 913.067 916.668 924.598 931.82608 939.0541 946.2821 953.51016 957.11117 965.04116 972.26919 983.8262 991.75619 995.3572 1002.5852 1007.6422 1014.87026">Amount spent by heavy gamblers </tspan></text>
+<text xml:space="preserve" transform="matrix(.731849 0 0 .731849 18 239.76767)" font-size="13" font-family="Arial" font-weight="bold"><tspan y="176.24512" x="807 811.329 818.557 830.114 833.715 841.645 845.974 849.575 856.80307 860.40408 864.00509 867.6061 875.5361 882.7641 894.3211 902.2511 905.8521 913.08016 918.13717 925.3652">(5% of all gamblers)</tspan></text>
+</g>
+<g clip-path="url(#clip_4)">
+</g>
+<g clip-path="url(#clip_5)">
+</g>
+<g clip-path="url(#clip_6)">
+<g clip-path="url(#clip_7)">
+</g>
+</g>
+<g clip-path="url(#clip_8)">
+<g clip-path="url(#clip_9)">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M-111.583408-60.495008H380.51588V305.63557H-111.583408Z" fill-opacity="0" fill-rule="evenodd"/>
+</g>
+</g>
+<g clip-path="url(#clip_10)">
+<g clip-path="url(#clip_11)">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M0 0C24.33588 10.433374 118.86659 45.858564 146.01529 62.600248 173.16399 79.341938 160.07936 94.1418 162.89218 100.45011" fill-opacity="0" fill-rule="evenodd"/>
+</g>
+</g>
+<g clip-path="url(#clip_12)">
+<g clip-path="url(#clip_13)">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" stroke-width="2.7229598" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M8.6451239 3.5829528 10.324399 4.2632248C10.918848 4.5035026 11.52678 4.748723 12.147634 4.998705 17.114502 6.9985625 22.90946 9.303624 29.263804 11.828568 41.97249 16.878458 56.918714 22.807917 71.952838 28.934508 102.02109 41.187688 132.44094 54.2294 146.01529 62.600248 173.16399 79.34193 160.07936 94.14179 162.89218 100.45011"/>
+</g>
+</g>
+<g clip-path="url(#clip_14)">
+<g clip-path="url(#clip_15)">
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" d="M8.645125 3.5829559 12.667171 1.944455 3.687776 1.5283918 10.296801 7.5729196Z" fill-rule="evenodd"/>
+<path transform="matrix(.24394967,0,0,.24636501,574.20529,333.44435)" stroke-width="2.7229598" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M8.645125 3.5829559 12.667171 1.944455 3.687776 1.5283918 10.296801 7.5729196Z"/>
+</g>
+</g>
+</g>
+</svg>
